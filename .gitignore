@@ -1,0 +1,19 @@
+# Build output
+build/
+out/
+*.o
+*.d
+
+# Binaries produced by these labs
+hello
+sandbox
+
+# Editors and IDEs
+.idea/
+.vs/
+.vscode/
+.cache/
+
+# OS clutter
+.DS_Store
+Thumbs.db
