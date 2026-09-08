@@ -125,8 +125,10 @@ error. Put the TAB back. You will meet this error again and now you will recogni
 
 There is no GitHub Classroom this year. You create your own copy instead:
 
-1. On this repository's GitHub page, click **Use this template** → **Create a new repository**.
-2. Name it `gdcpp-2026_27-lab02-makefile-basics-<your-github-username>` so I can tell whose is whose.
+1. Open **<https://github.com/GameDevCPP/gdcpp-2026_27-lab02-makefile-basics/generate>** — that is the one-click version of the
+   **Use this template** button on this page.
+2. Name it `gdcpp-2026_27-lab02-makefile-basics-<your-github-username>` so I can tell whose is whose,
+   and leave it **public** unless you have been told otherwise.
 3. Clone *your* copy, not this one:
    ```
    git clone https://github.com/<your-github-username>/gdcpp-2026_27-lab02-makefile-basics-<your-github-username>.git
